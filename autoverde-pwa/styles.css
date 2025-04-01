@@ -1,0 +1,22 @@
+:root {
+  --primary-green: #00B14F;
+  --dark-green: #008A3C;
+  --light-green: #E5F5EC;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', system-ui;
+  background: #f5f5f5;
+}
+
+.app-container {
+  max-width: 414px; /* Tamaño móvil */
+  margin: 0 auto;
+  min-height: 100vh;
+  background: white;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Añade aquí todos tus estilos de la interfaz */
